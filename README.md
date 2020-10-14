@@ -3,9 +3,8 @@ Face Mask Detector using Convolutional Neural Networks (CNN)
 
 # Technology Used 
 1. Open Cv
-2. TensorFlow
-3. Keras
-4. Python
+2. Keras
+3. Python
 
 # ScreenShots
 ![](images/Screenshot%20(272).png)
